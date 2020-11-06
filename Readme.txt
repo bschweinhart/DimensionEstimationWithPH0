@@ -25,6 +25,7 @@ In addition, the MATLAB code file "Corr_Dim_File.m" may be used to estimate the 
 
 This is a "beta" version. Please email the author at bschweinhart@albany.edu if you experience any errors, or have any questions/comments/requests for additional functionality.
 
+This material is  based upon work supported by a NSF Mathematical Sciences Postdoctoral Research Fellowship under award number DMS-1606259.
 
 CITATIONS:
 
